@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "puppeteer": "^22.8.0"
+  }
+}
